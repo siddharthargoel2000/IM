@@ -25,6 +25,6 @@ concentration changes occurred  at  samples.  Besides,  it  could  be  an  answe
 also storage problems of food related companies, markets, and farmers
 
 ### Requirements
-Web-Development -[CSS,JavaSript,HTML,Django]
-Python Modules -[numpy,pandas,seaborne,matplotlib]
-Machine Learning Models
+Web-Development -[CSS,JavaSript,HTML,Django]  
+Python Modules -[numpy,pandas,seaborne,matplotlib]  
+Machine Learning Models  
